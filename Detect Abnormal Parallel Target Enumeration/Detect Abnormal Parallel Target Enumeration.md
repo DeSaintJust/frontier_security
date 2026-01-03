@@ -55,3 +55,5 @@ detection_rule:
       - "Subsequent requests to `/v1/code/execute` with exploit payloads"
       - "Requests to credential-related MCP endpoints (`/mcp/vault/*`)"
       - "Geolocation of source_ip associated with known threat actor infrastructure"
+```
+https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf
