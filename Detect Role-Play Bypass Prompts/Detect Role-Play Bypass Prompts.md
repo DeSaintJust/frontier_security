@@ -53,5 +53,5 @@ detection_engine:
       - check: "objective_drift"
         description: "Session starts with broad 'security review' but tools/requests quickly narrow to specific exploitation."
         action: "analyze_with_ml_classifier"
-
+```
 https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf
